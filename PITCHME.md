@@ -1,19 +1,6 @@
-- title : Kafka
-- description : Introduction to Kafka
-- author : Tim Klug and Sven Soennichsen
-- theme : day
-- transition : default
+# Apacke Kafka
 
-***
-
-' Notes:
-
-***
-
-### Kafka
-
-
-***
+---
 
 #### What is Kafka?
 
@@ -22,12 +9,12 @@
  - Nachrichten von A nach B in geordneten Reihenfolge
  - Clientteilige Durchsatz sehr hoch
  - 
-
-
-
+---
 
 #### Use Cases
 
+
+---
 
 #### Components
 
@@ -39,24 +26,26 @@
 - Partitions
 - 
 
-
-***
+---
 #### Producer / Consumer
 
   - Consumer Groups
   - Partitions
   - 
-
+---
 #### Streams
 
+---
 #### Monitoring
 
+---
 
 #### Supported Languages
   - JVM
   - C# 
   - librdkafka.redist
 
+---
 #### demo
 
 
